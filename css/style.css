@@ -1,0 +1,128 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 62.5%;
+    background-color: #FFF6E5;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    background-color: rgb(50, 57, 69);
+    text-align: center;
+    font-size: 15px;
+}
+
+.logo1{
+    text-align: left;
+    color: rgb(230, 197, 138);
+    padding: 5px;
+    font-size: 15px;
+}
+
+ul{
+    display: inline-block;
+    text-align: center;
+}
+
+li{
+    padding: 5px;
+    list-style-type: none;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(230, 197, 138);
+}
+
+.inicio1{
+    text-align: center;
+}
+
+.eventos1{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+}
+
+footer{
+    background-color: rgb(50, 57, 69);
+    color: rgb(230, 197, 138);
+    padding: 50px;
+}
+
+.redes{
+    display: inline-block;
+}
+
+.all{
+    margin: 60px;
+}
+
+h1{
+    text-align: center;
+}
+
+.foto-header{
+    height: 100%;
+    width: 100%;
+    padding: 0;
+}
+
+p{
+    font-size: 150%;
+    text-align: justify;
+}
+
+.damia1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+p{
+    display: inline-block;
+    padding: 10px;
+}
+
+.nosotros2{
+    width: 69%;
+    height: 34%;
+}
+img{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 23%;
+    height: 50%;
+    display: inline;
+}
+
+h2{
+    padding: 10px;
+}
+
+.titulo-formulario{
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    padding: 10px;
+}
+
+.vino-titulo{
+    margin-top: 10px;
+}
+
+form{
+    margin-left: 60px;
+    margin-right: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.registrate{
+    padding: 10px;
+}
